@@ -1,6 +1,6 @@
 # TODO
 
-1. Power table
+1. Power table <font color='green'>[Completed]</font>
 2. Factorial table
 3. Fibonacci table
 4. Pattern printing
